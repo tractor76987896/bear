@@ -44,14 +44,14 @@ Environment variables：`Key`：PORT，`Value`：80
 <summary>V2rayN(Xray、V2ray)</summary>
 
 ```bash
-地址：xxx-xxx.prod-glb.koyeb.app 或 CF优选IP
+地址：xxx-xxx.koyeb.app 或 CF优选IP
 端口：443
 默认UUID：69349e47-755f-4643-a0a4-70ad7571c421
 vmess额外id：0
 加密：none
 传输协议：ws
 伪装类型：none
-伪装域名：xxx-xxx.prod-glb.koyeb.app
+伪装域名：xxx-xxx.koyeb.app
 路径：/69349e47-755f-4643-a0a4-70ad7571c421-vless
 vless使用(/自定义UUID码-vless)，vmess使用(/自定义UUID码-vmess)
 底层传输安全：tls
